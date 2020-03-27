@@ -1,12 +1,12 @@
 var authConfig = {
-    "siteName": "GoIndex", // 网站名称
+    "siteName": "Switch资源更新", // 网站名称
     "root_pass": "index",  // 根目录密码，优先于.password
     "version" : "1.0.6", // 程序版本
     "theme" : "material", // material  classic 
-    "client_id": "202264815644.apps.googleusercontent.com",
-    "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
-    "refresh_token": "", // 授权 token
-    "root": "root" // 根目录ID
+    "client_id": "1021990856540-eh503nl7g37j6fd2ggf8h055c22fp2os.apps.googleusercontent.com",
+    "client_secret": "k5mJk5jo87uAibVB3Yc2XFKx",
+    "refresh_token": "ya29.a0Adw1xeVHrY3mbEQkVgNE5zpzCVqV0gxpVKwl75m2VarIOiGhQs56Bfr4-RHRn9xMVs0SYVzqe3RVyVfL6vQDu4hCpNATn0iWeQqRjUWjHuXqWqnanwWMsF7Evs3Emh_gqWeLrCJ3EMppWY9UWQ2pihKJpGx2o030PYU","token_type":"Bearer","refresh_token":"1//0eAZ81so-Vd3oCgYIARAAGA4SNwF-L9Irv2A-X-wzjcywPOq_GJFn8EDB0RdKcb-Skf6wksE29AO2IJEUHeMXV7IADjWg_IHlSR0","expiry":"2020-03-27T10:28:57.203103044Z", // 授权 token
+    "root": "1vD_wlZCT38swSZBWezDjzBWOIfQML3FO" // 根目录ID
 };
 
 var gd;
